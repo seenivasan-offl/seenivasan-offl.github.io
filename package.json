@@ -1,0 +1,11 @@
+{
+  "name": "alex-smith-main",
+  "version": "1.0.0",
+  "description": "iPortfolio - Bootstrap Portfolio Websites Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
