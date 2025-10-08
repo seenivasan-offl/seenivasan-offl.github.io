@@ -57,7 +57,7 @@ Open http://localhost:3000
 
 📫 Contact Me
 
-Email: seenivasan@example.com
+Email: seenivasan.offl.ac@gmail.com
 
 GitHub: https://github.com/seenivasan-offl
 
