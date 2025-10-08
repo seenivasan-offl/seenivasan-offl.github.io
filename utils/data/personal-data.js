@@ -12,6 +12,5 @@ export const personalData = {
   twitter: 'https://twitter.com/seenivasanh', // optional
   stackOverflow: 'https://stackoverflow.com/users/0000000/seenivasanh', // optional
   leetcode: "https://leetcode.com/u/Seeni9427/", // optional
-  devUsername: "seenivasanh",
   resume: "https://drive.google.com/file/d/1IHeLeULoUqbd8F1s6hS8hDan0zdNqHmF/view?usp=drive_link" // replace with your resume link
 };
