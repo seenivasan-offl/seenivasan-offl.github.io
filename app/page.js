@@ -1,5 +1,7 @@
+"use client";
+
 import AboutSection from "./components/homepage/about";
-import ContactSection from "./components/homepage/contact";
+import ContactWrapper from "./components/homepage/contact/ContactWrapper";
 import Education from "./components/homepage/education";
 import Experience from "./components/homepage/experience";
 import HeroSection from "./components/homepage/hero-section";
@@ -15,8 +17,7 @@ export default function Home() {
       <Skills />
       <Projects />
       <Education />
-      {/* Blog removed since DEV.to integration is removed */}
-      <ContactSection />
+      <ContactWrapper />
     </div>
   );
 }
