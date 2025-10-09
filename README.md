@@ -61,7 +61,7 @@ Email: seenivasan.offl.ac@gmail.com
 
 GitHub: https://github.com/seenivasan-offl
 
-LinkedIn: https://www.linkedin.com/in/seenivasan-h
+LinkedIn: https://www.linkedin.com/in/seeni-vasan-h
 
 📦 Technologies & Tools
 
